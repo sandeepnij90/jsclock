@@ -1,0 +1,23 @@
+{
+  "name": "jsclock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "build": "babel app.js > index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandeepnij90/jsclock.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandeepnij90/jsclock/issues"
+  },
+  "homepage": "https://github.com/sandeepnij90/jsclock#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.0"
+  }
+}
